@@ -1,0 +1,6 @@
+.contenedorNumeros {
+    width: 300px;
+    height: 200px;
+    border-style: dotted;
+    overflow-wrap: break-word;
+}
